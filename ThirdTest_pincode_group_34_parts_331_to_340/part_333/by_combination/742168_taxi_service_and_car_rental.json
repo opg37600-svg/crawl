@@ -1,0 +1,25 @@
+[
+  {
+    "business_name": "Dev driver service centre",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Chauffeur service",
+    "all_categories": "Chauffeur service",
+    "pincode": "742168",
+    "circle": "West Bengal Circle",
+    "region": "Kolkata Region",
+    "division": "Murshidabad Division",
+    "major_offices": "Andi SO, Belgram BO, Bipra Sekhar BO",
+    "phone_number": "+91 78902 51805",
+    "website": "https://devdriverservices.com/",
+    "rating": 4.5,
+    "reviews_count": 210,
+    "address": "10, Rammoy Rd, Paddapukur, Bhowanipore, Kolkata, West Bengal 700020",
+    "area": "Paddapukur, Bhowanipore",
+    "latitude": 22.5310514,
+    "longitude": 88.3519917,
+    "place_id": "ChIJj4R7IDt3AjoRI6q96Guw6V8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJj4R7IDt3AjoRI6q96Guw6V8",
+    "part_id": "part_333",
+    "crawled_at": "2026-09-20 20:24:50"
+  }
+]
