@@ -1,0 +1,25 @@
+[
+  {
+    "business_name": "Awesome Event",
+    "search_category": "Corporate Event Planner",
+    "primary_category": "Event planner",
+    "all_categories": "Event planner, Caterer, Conference center, Event management company, Event venue, Florist, Photo booth, Photographer, Wedding photographer, Wedding planner",
+    "pincode": "741125",
+    "circle": "West Bengal Circle",
+    "region": "Kolkata Region",
+    "division": "Nadia North Division",
+    "major_offices": "Belpukur SO, Anandanagar BO, Bahadurpur BO",
+    "phone_number": "+91 84477 16668",
+    "website": "https://sites.google.com/view/awesomeeventpvtltd/home",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "street no.12, House no.121b, near Radha Kishan Mandir, Block G, New Delhi, Delhi 110080",
+    "area": "Block G, Block G 1, Sangam Vihar",
+    "latitude": 28.504360799999997,
+    "longitude": 77.2566302,
+    "place_id": "ChIJVY2t-Z3hDDkRVOze42szfBo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVY2t-Z3hDDkRVOze42szfBo",
+    "part_id": "part_331",
+    "crawled_at": "2026-09-20 20:25:48"
+  }
+]
