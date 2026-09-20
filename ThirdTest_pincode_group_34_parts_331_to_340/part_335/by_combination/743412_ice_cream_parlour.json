@@ -1,0 +1,25 @@
+[
+  {
+    "business_name": "HAP daily",
+    "search_category": "Ice Cream Parlour",
+    "primary_category": "Ice cream shop",
+    "all_categories": "Ice cream shop, Bakery and Cake Shop, Dairy Products Supplier, Dairy store, Milk delivery service",
+    "pincode": "743412",
+    "circle": "West Bengal Circle",
+    "region": "Kolkata Region",
+    "division": "Barasat Division",
+    "major_offices": "Basirhat College SO, Basirhat RS BO, Dandirhat BO",
+    "phone_number": "+91 88073 21746",
+    "website": "https://hapdaily.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Ground Floor, No. 1102.512, Bongaon - Basirhat Rd, Basirhat, West Bengal 743412",
+    "area": "743412",
+    "latitude": 22.672076999999998,
+    "longitude": 88.846102,
+    "place_id": "ChIJ9YUkLFNV_zkREKpoPq9l_24",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9YUkLFNV_zkREKpoPq9l_24",
+    "part_id": "part_335",
+    "crawled_at": "2026-09-20 20:41:35"
+  }
+]
