@@ -1,0 +1,25 @@
+[
+  {
+    "business_name": "Hotel Valley View",
+    "search_category": "Spa",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "737136",
+    "circle": "West Bengal Circle",
+    "region": "North Bengal Region",
+    "division": "Sikkim Division",
+    "major_offices": "Majitar SO",
+    "phone_number": "+91 97331 64101",
+    "website": "N/A",
+    "rating": 3.3,
+    "reviews_count": null,
+    "address": "Gangtok - Rangpo Rd, Rangpo, Majitar, Sikkim 737136",
+    "area": "737136",
+    "latitude": 27.185434899999997,
+    "longitude": 88.5037388,
+    "place_id": "ChIJN6J61Gug5jkRFOG3mUp26rQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJN6J61Gug5jkRFOG3mUp26rQ",
+    "part_id": "part_331",
+    "crawled_at": "2026-09-20 20:19:57"
+  }
+]
