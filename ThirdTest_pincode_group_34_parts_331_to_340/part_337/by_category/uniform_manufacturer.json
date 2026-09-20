@@ -5542,5 +5542,29 @@
     "part_id": "part_337",
     "crawled_at": "2026-09-20 20:48:15",
     "s_no": 74400
+  },
+  {
+    "business_name": "S.fashion Factory",
+    "search_category": "Uniform Manufacturer",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "752034",
+    "circle": "Odisha Circle",
+    "region": "Bhubaneswar HQ Region",
+    "division": "Bhubaneswar Division",
+    "major_offices": "Gangadharpur S.O, Baradiharikunda B.O, Baulabandha B.O",
+    "phone_number": "+91 63708 30480",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "R7RR+6X5, Nachuni Main Rd, Lokipur, Nachuni, Odisha 752034",
+    "area": "752034",
+    "latitude": 19.8405102,
+    "longitude": 85.2924756,
+    "place_id": "ChIJlwdf8ug_GDoRR_NPMQF5g6w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlwdf8ug_GDoRR_NPMQF5g6w",
+    "part_id": "part_337",
+    "crawled_at": "2026-09-20 20:51:03",
+    "s_no": 77644
   }
 ]
