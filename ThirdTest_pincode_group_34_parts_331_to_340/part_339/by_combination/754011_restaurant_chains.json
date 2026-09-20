@@ -1,0 +1,25 @@
+[
+  {
+    "business_name": "Hotel odiani",
+    "search_category": "Restaurant Chains",
+    "primary_category": "Odia restaurant",
+    "all_categories": "Odia restaurant",
+    "pincode": "754011",
+    "circle": "Odisha Circle",
+    "region": "Bhubaneswar HQ Region",
+    "division": "Cuttack City Division",
+    "major_offices": "Adaspur S.O",
+    "phone_number": "+91 70640 91275",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 3,
+    "address": "Medical Chhak, Adaspur, Odisha 754001",
+    "area": "754011",
+    "latitude": 20.220012999999998,
+    "longitude": 86.0122758,
+    "place_id": "ChIJ1cvaHgCdGToRSITExzzmQgs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1cvaHgCdGToRSITExzzmQgs",
+    "part_id": "part_339",
+    "crawled_at": "2026-09-20 20:37:41"
+  }
+]
