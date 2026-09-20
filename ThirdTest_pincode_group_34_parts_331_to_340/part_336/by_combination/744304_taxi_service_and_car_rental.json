@@ -1,0 +1,25 @@
+[
+  {
+    "business_name": "India Taxi Online",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Car rental agency",
+    "all_categories": "Car rental agency",
+    "pincode": "744304",
+    "circle": "West Bengal Circle",
+    "region": "Calcutta HQ Region",
+    "division": "A - N Islands Division",
+    "major_offices": "Kapanga S.O, Mildera B.O, Nehrugram B.O",
+    "phone_number": "N/A",
+    "website": "https://indiataxionline.in/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Office No. 2, A, 7, Street No.1, Block D, Pandav Nagar, New Delhi, Delhi, 110092",
+    "area": "Block D, Pandav Nagar",
+    "latitude": 28.6305348,
+    "longitude": 77.2830137,
+    "place_id": "ChIJXeTvYiz9DDkR3qq28ltzAcY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXeTvYiz9DDkR3qq28ltzAcY",
+    "part_id": "part_336",
+    "crawled_at": "2026-09-20 20:46:17"
+  }
+]
